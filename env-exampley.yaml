@@ -1,0 +1,11 @@
+pgsql:
+  host: "localhost"
+  port: 5432
+  database: "postgres"
+  user: "postgres"
+  password: "111111"
+
+redis:
+  host: "192.168.0.112"
+  port: 6379
+  db: 0
